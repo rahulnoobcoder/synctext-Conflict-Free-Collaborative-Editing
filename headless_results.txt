@@ -1,0 +1,9 @@
+Round 1: Converged: yes
+Round 1: Correctness: ok
+Round 2: Converged: yes
+Round 2: Correctness: ok
+Round 3: Converged: yes
+Round 3: Correctness: ok
+Round far-apart: Converged: yes
+Round far-apart: Correctness: ok
+=== Headless test complete. Results in headless_results.txt ===
